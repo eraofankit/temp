@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#sensor-table {
+    margin-top: 1em;
+    border-collapse: collapse;
+}
+#sensor-table th, #sensor-table td {
+    padding: 0.5em 1em;
+}
+canvas {
+    margin-top: 1em;
+    border: 1px solid #ccc;
+}
